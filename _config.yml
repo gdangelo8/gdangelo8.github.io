@@ -48,8 +48,8 @@ sass:
 feed:
   path: atom.xml
 
-autopages:
-  enabled: false
+#autopages:
+#  enabled: false
 
 pagination:
   enabled: true
