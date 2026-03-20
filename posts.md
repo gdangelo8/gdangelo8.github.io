@@ -5,5 +5,4 @@ pagination:
   enabled: true
 ---
 
-{% include postlist.html %}
-{% include pagination.html %}
+{% include publications.html %}
